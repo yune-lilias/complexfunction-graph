@@ -47,8 +47,8 @@ end
 close(h)
 t1=toc
 
-argz
-gvalue
+%argz
+%gvalue
 %gvalue = g(real(value),imag(value));
 s = 1;
 
