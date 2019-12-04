@@ -10,5 +10,5 @@ g(a,b) = <here enter the expression of z,a,b>
 
 then call the function:
  draw2dpicsimp(g, lower range of x, upper range of x,lower range of y , upper range of y);
- Notice1: it may be quite long to run the program
- Notice2: this is a simplified version that improve running time 
+ Notice: it may be quite long to run the program, change xai and yai lower can improve the running time (pixel size of the graph)
+
